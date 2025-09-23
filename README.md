@@ -16,31 +16,31 @@
 <p align="left">
   <a href="https://github.com/alexiscarbillet/archive_code">
   Archive code
-  </a>
+  </a> |
   <a href="https://github.com/alexiscarbillet/alexis-carbillet">
   Main website
-  </a>
+  </a> |
   <a href="https://github.com/alexiscarbillet/ac-programming">
   Coding website
-  </a>
+  </a> |
   <a href="https://github.com/alexiscarbillet/ac-electricity">
   Electricity website
-  </a>
+  </a> |
   <a href="https://github.com/alexiscarbillet/serverhub">
   Hardware website
-  </a>
+  </a> |
   <a href="https://github.com/alexiscarbillet/cats">
   Cats website
-  </a>
+  </a> |
   <a href="https://github.com/alexiscarbillet/cats">
   Killerconda scenarios
-  </a>
+  </a> |
   <a href="https://github.com/alexiscarbillet/apps">
   Android applications
-  </a>
+  </a> |
   <a href="https://github.com/alexiscarbillet/dockerhub">
-  Containers on DockerHub
-  </a>
+  DockerHub Containers 
+  </a> |
   <a href="https://github.com/alexiscarbillet/vscode_extension">
   VScode extensions
   </a>
