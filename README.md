@@ -14,11 +14,35 @@
 
 ## 🚀 Featured Projects
 <p align="left">
-  <a href="https://github.com/alexiscarbillet/web-analytics-cli">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexiscarbillet&repo=web-analytics-cli&theme=radical" />
+  <a href="https://github.com/alexiscarbillet/archive_code">
+  Archive code
   </a>
-  <a href="https://github.com/alexiscarbillet/weekly-schedule-go">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexiscarbillet&repo=weekly-schedule-go&theme=radical" />
+  <a href="https://github.com/alexiscarbillet/alexis-carbillet">
+  Main website
+  </a>
+  <a href="https://github.com/alexiscarbillet/ac-programming">
+  Coding website
+  </a>
+  <a href="https://github.com/alexiscarbillet/ac-electricity">
+  Electricity website
+  </a>
+  <a href="https://github.com/alexiscarbillet/serverhub">
+  Hardware website
+  </a>
+  <a href="https://github.com/alexiscarbillet/cats">
+  Cats website
+  </a>
+  <a href="https://github.com/alexiscarbillet/cats">
+  Killerconda scenarios
+  </a>
+  <a href="https://github.com/alexiscarbillet/apps">
+  Android applications
+  </a>
+  <a href="https://github.com/alexiscarbillet/dockerhub">
+  Containers on DockerHub
+  </a>
+  <a href="https://github.com/alexiscarbillet/vscode_extension">
+  VScode extensions
   </a>
 </p>
 
