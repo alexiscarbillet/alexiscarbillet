@@ -20,6 +20,9 @@
   <a href="https://killercoda.com/alexis-carbillet" target="_blank">
     <img src="https://img.shields.io/badge/KillerCoda-000000?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="KillerCoda"/>
   </a>
+  <a href="https://artifacthub.io/packages/search?repo=helm-charts-alexis-carbillet" target="_blank">
+    <img src="https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/helm-charts-alexis-carbillet" alt="Artifact Hub"/>
+  </a>
 </p>
 
 ---
