@@ -44,7 +44,6 @@ I'm an IT professional with a passion for cloud technologies, data science, AI, 
 | [Cats website](https://github.com/alexiscarbillet/cats) | Fun project about cats (or related content). |
 | [KillerCoda scenarios](https://github.com/alexiscarbillet/killercoda) | Interactive coding scenarios on KillerCoda. |
 | [Android applications](https://github.com/alexiscarbillet/apps) | Collection of Android apps. |
-| [DockerHub Containers](https://github.com/alexiscarbillet/dockerhub) | Docker containers and images. |
 | [VS Code extensions](https://github.com/alexiscarbillet/vscode_extension) | Custom extensions for Visual Studio Code. |
 
 ## 🛠️ Tech & Tools
